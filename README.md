@@ -16,7 +16,13 @@
 
 [http://metrics.dropwizard.io/3.2.3/getting-started.html](http://metrics.dropwizard.io/3.2.3/getting-started.html)
 
-http://metrics.dropwizard.io/3.1.0/manual/core/
+[http://metrics.dropwizard.io/3.1.0/manual/core/](http://metrics.dropwizard.io/3.1.0/manual/core/)
 
-http://metrics.dropwizard.io/3.1.0/getting-started/
+[http://metrics.dropwizard.io/3.1.0/getting-started/](http://metrics.dropwizard.io/3.1.0/getting-started/)
+
+https://keras.io/metrics/
+
+https://github.com/xiazemin/keras
+
+https://www.cnblogs.com/wangxin37/p/6397949.html
 
