@@ -4,6 +4,8 @@ Metrics可以为你的代码的运行提供无与伦比的洞察力。作为一�
 
 Metrics提供了Gauge、Counter、Meter、Histogram、Timer等度量工具类以及Health Check功能。
 
+![](/metrics.png)
+
 引用Metric库
 
 将metrics-core加入到maven pom.xml中：
